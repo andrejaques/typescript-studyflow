@@ -20,7 +20,7 @@ function HeritageClass() {
   console.log(SkyWalker);
 
   return (
-    <div className="class02">
+    <div className="class">
       <p>
         { SkyWalker.nickname + " at level: " + SkyWalker.level }
       </p>

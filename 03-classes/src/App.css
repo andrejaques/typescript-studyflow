@@ -24,8 +24,18 @@
   color: white;
 }
 
-.class01 {
+.class {
   color: rgb(150, 213, 150);
+}
+
+.modifiers {
+  font-size: calc(8px + 1vmin);
+  color: rgb(249, 130, 103);
+}
+
+.accessors {
+  font-size: calc(8px + 1vmin);
+  color: rgb(255, 252, 152);
 }
 
 @keyframes App-logo-spin {

@@ -17,7 +17,7 @@ function Class01() {
   console.log(Andre);
 
   return (
-    <div className="class01">
+    <div className="class">
       <p>
         { Andre.name }
       </p>
